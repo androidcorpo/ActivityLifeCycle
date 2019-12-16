@@ -1,4 +1,4 @@
-package com.ak.apps.activitylifecycle
+package com.androidcorpo.activitylifecycle
 
 import org.junit.Test
 
